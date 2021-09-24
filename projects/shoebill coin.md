@@ -9,4 +9,5 @@ logo: /img/shoebillcoin.svg
 status: Live
 ---
 
-Shoebill Coin is a meme coin designed to acquire people’s attention to endangered species like the Shoebill and raise the attention to our environment.
+Shoebill Coin is a meme coin designed to bring people’s attention to endangered species like the Shoebill and raise environmental awareness.
+
