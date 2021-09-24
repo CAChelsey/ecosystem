@@ -10,7 +10,7 @@ twitter: "https://twitter.com/upfi_network"
 status: building
 ---
 
-The ultimate objective of the UPFI is to replace fixed-supply digital assets with a highly scalable, decentralized, algorithmic money.
+TThe ultimate objective of the UPFI is to replace fixed-supply digital assets with a highly scalable, decentralized, algorithmic money.
 
 The stablecoin protocol to implement design principles of both to create:
 
