@@ -9,7 +9,7 @@ category: dex, tools
 status: building
 ---
 
-Ashera will provide some features that will help many Solana Developer.
+Ashera will provide some features that will help many Solana developers.
 Our features:
 
 - Ashera DEX
