@@ -9,4 +9,5 @@ category: exchange
 status: live
 ---
 
-CoinEx, a Chinese based cryptocurrency exchange, listed SOL in early 2021.
+CoinEx is a Chinese based cryptocurrency exchange listed SOL in early 2021.
+
