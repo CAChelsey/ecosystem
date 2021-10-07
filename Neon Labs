@@ -1,10 +1,15 @@
 ---
 slug: "neon labs"
-date: "2021-09-30"
+date: "2021-10-07"
 title: "neon labs"
+logline: "The Neon EVM economy is fee-based. Neon is a Utility Token, also used for governance. "
+cta: "https://neon-labs.org/"
+logo: https://trello.com/1/cards/6151fa2c8a6d402b7d666de1/attachments/615cc3364eadc804e2db2b5e/download/neonlabs.png
+category: governance
+status: live
+website: https://neon-labs.org/
+twitter: https://twitter.com/neonlabsorg
+---
 
-website: "https://neon-labs.org/"
-twitter: "https://twitter.com/neonlabsorg"
 
-The Neon EVM economy is fee-based. Neon is a Utility Token also used for governance.
-
+The Neon EVM economy is fee-based. Neon is a Utility Token, also used for governance. 
