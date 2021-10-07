@@ -1,9 +1,15 @@
 ---
 slug: "aurory"
-date: "2021-10-01"
+date: "2021-10-07"
 title: "aurory"
+logline: "Aurory, a gaming project powered by Solana and Serum"
+cta: "https://app.aurory.io/"
+logo: https://trello.com/1/cards/61573e7f9004930956d20dc2/attachments/615cb17aafe821530a6af081/download/aurory.jpg
+category: game
+status: building
+website: https://app.aurory.io/
+twitter: https://twitter.com/AuroryProject
+---
 
-website: "https://app.aurory.io/"
-twitter: "https://twitter.com/AuroryProject"
 
-Aurory, a gaming project powered by Solana and Serum.
+Aurory, a gaming project powered by Solana and Serum
