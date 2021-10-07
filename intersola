@@ -1,10 +1,14 @@
 ---
 slug: "intersola"
-date: "2021-09-30"
+date: "2021-10-07"
 title: "intersola"
+logline: "Launchpad and insights platform for the Solana universe."
+cta: "https://intersola.io/"
+logo: https://trello.com/1/cards/6151f71fd51ee02f6a20c50a/attachments/615cad1c60d10487906329b8/download/intersola.jpg
+category: app
+status: building
+website: https://intersola.io/
+twitter: https://twitter.com/Intersola_io
+---
 
-website: "https://intersola.io/"
-twitter: "https://twitter.com/Intersola_io"
-
-Intersola is a launchpad and insights platform for the Solana universe.
-
+Launchpad and insights platform for the Solana universe.
