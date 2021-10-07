@@ -1,9 +1,14 @@
 ---
 slug: "project seed"
-date: "2021-10-01"
+date: "2021-10-07"
 title: "project seed"
-
-website: "https://projectseed.io/"
-twitter: "https://twitter.com/projectseedgame"
+logline: "A multichain gaming ecosystem that includes Gaming Studio, NFT Center, Gamefi Nexus, and DAO Council."
+cta: "https://projectseed.io/"
+logo: https://trello.com/1/cards/61573d57ea835849844733f6/attachments/615cbdd028cead29b8c5ea2f/download/proejct_seed.png
+category: game, nft
+status: live
+website: https://projectseed.io/
+twitter: https://twitter.com/projectseedgame
+---
 
 A multichain gaming ecosystem that includes Gaming Studio, NFT Center, Gamefi Nexus, and DAO Council.
