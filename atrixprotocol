@@ -1,10 +1,14 @@
 ---
 slug: "atrix protocol"
-date: "2021-09-30"
+date: "2021-10-07"
 title: "atrix protocol"
+logline: "Atrix is the only Serum AMM that allows you to easily create liquidity pools and farms."
+cta: "https://www.atrix.finance/"
+logo: https://trello.com/1/cards/6151f79f59018f50d9d6c58c/attachments/615cbfba344acb6e0131582d/download/atrix.jpg
+category: amm, app, dapp
+status: live
+website: https://www.atrix.finance/
+twitter: https://twitter.com/AtrixProtocol
+---
 
-website: "https://www.atrix.finance/"
-twitter: "https://twitter.com/AtrixProtocol"
-
-Atrix is a Serum AMM that allows you to easily create liquidity pools and farms.
-
+Atrix is the only Serum AMM that allows you to easily create liquidity pools and farms.
