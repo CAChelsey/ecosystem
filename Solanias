@@ -1,9 +1,14 @@
 ---
 slug: "solanias"
-date: "2021-09-30"
+date: "2021-10-07"
 title: "solanias"
-
-website: "https://solarians.click/"
-twitter: "https://twitter.com/solanians_?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+logline: "The first generative NFTs on Solana"
+cta: "https://solarians.click/"
+logo: https://trello.com/1/cards/61573959076ef3393f156bef/attachments/615cc5003af30a738503aea3/download/solanias.png
+category: amm, app, nft
+status: building
+website: https://solarians.click/
+twitter: https://twitter.com/solanians_?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+---
 
 The first generative NFTs on Solana.
