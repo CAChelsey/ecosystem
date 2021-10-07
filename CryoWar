@@ -1,9 +1,14 @@
 ---
-slug: "cryo war"
-date:"2021-10-01"
-title: "cryo war"
-
-website: "https://cryowar.com/"
-twitter: "https://twitter.com/CryowarDevs"
+slug: "cryowar"
+date: "2021-10-07"
+title: "cryowar"
+logline: "Real time NFT play-to-earn game built on Solana and UnrealEngine."
+cta: "https://cryowar.com/"
+logo: https://trello.com/1/cards/61573ce958172c87ea55bd6a/attachments/615cb09921525d6ceb25c210/download/cryowar.jpg
+category: game, app
+status: building
+website: https://cryowar.com/
+twitter: https://twitter.com/CryowarDevs
+---
 
 Real time NFT play-to-earn game built on Solana and UnrealEngine.
