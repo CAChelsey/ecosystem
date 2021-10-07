@@ -1,10 +1,14 @@
 ---
-slug: "chainflow:
-date: "2021-09-30"
+slug: "chainflow"
+date: "2021-10-07"
 title: "chainflow"
+logline: "Highly available, secure & independent Web3 infrastructure for a better future "
+cta: "https://chainflow.io/"
+logo: https://trello.com/1/cards/6151f99878026073592d83f6/attachments/615ca2fdff36dd6cb141a663/download/chainflow-twitter-post-image-2.png
+category: infra
+status: building
+website: https://chainflow.io/
+twitter: https://twitter.com/ChainflowPOS
+---
 
-website: "https://chainflow.io/"
-twitter: "https://twitter.com/ChainflowPOS"
-
-Highly available, secure & independent Web3 infrastructure for a better future
-
+Highly available, secure & independent Web3 infrastructure for a better future 
